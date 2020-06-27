@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Hi-Taxi</string>
+    <string name="sil"> \u00a9 Worldgaon Pvt. Ltd. 2017</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+
+    <string name="lb_product">Product</string>
+    <string name="lb_doctors">Doctors</string>
+    <string name="title_activity_pwds_tab">P W D S</string>
+    <string name="title_activity_gwds_tab">G W D S</string>
+    <string name="title_activity_tour_plan_tab">TOUR PLAN</string>
+    <string name="title_activity_work_plan">WORK PLAN</string>
+    <string name="title_activity_dss">Day Sample Summary</string>
+    <string name="title_activity_ss">Sample Statement</string>
+    <string name="title_activity_today">Today</string>
+    <string name="title_activity_dvr">D V R</string>
+    <string name="title_activity_calendar">Calender for %1$s</string>
+    <string name="title_activity_bill_statement">Bill Statement</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btn_save_next">save \u0026 next</string>
+    <string name="btn_save_exit">save \u0026 exit</string>
+    <string name="no_place_added">No visit place selected yet.\nTo add tap to add place</string>
+    <string name="zoom_transition">300</string>
+
+    <string name="title_report_fragment_doctor_list">Market Doctor List</string>
+    <string name="title_report_fragment_market_dvr">Market DVR Summary</string>
+    <string name="title_report_fragment_dvr_summary">Doctor plan</string>
+    <string name="title_report_fragment_uncovered_doctor">Uncovered Doctor List</string>
+    <string name="title_report_fragment_doctor_coverage">Doctor Coverage</string>
+    <string name="title_report_fragment_sample_statement">Sample Statement</string>
+    <string name="title_report_fragment_pwds">Report P W D S</string>
+    <string name="title_report_fragment_work_plan">Market Competitors</string>
+
+    <string name="title_tour_place">Tour Places</string>
+    <string name="add_tour_place">Add\nPlace</string>
+    <string name="tour_plan">Tour plan</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching</string>
+    <string name="android_name">Android Name</string>
+    <string name="android_version">Android Version</string>
+    <string name="prev">prev</string>
+    <string name="ok">Ok</string>
+    <string name="next">next</string>
+    <string name="absent">ABSENT</string>
+    <string name="allocated_colon">Allocated: </string>
+    <string name="save">save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Log In</string>
+    <string name="register">Sign Up</string>
+
+    <string name="logout">Logout</string>
+    <string name="edcr_login">Login</string>
+    <string name="job_title">Jobs</string>
+    <string name="quest_title">Quests</string>
+    <string name="stat_title">Statistics</string>
+    <string name="profile_title">Profile</string>
+    <string name="info_title">Info</string>
+    <string name="setting_title">Settings</string>
+    <string name="legal_title">Legal</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="logout_title">Log Out</string>
+    <string name="user_id">Mobile number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="home">Home</string>
+    <string name="add_place">add place</string>
+    <string name="done">Done</string>
+    <string name="sync">Sync</string>
+    <string name="total_no_sample">Total no of sample</string>
+    <string name="total_no_product">Total no of product</string>
+    <string name="rcv_qty">Rcv qty</string>
+    <string name="plan_doc">Plan doc</string>
+    <string name="m_report_place">Morning report place</string>
+    <string name="e_report_place">Evening report place</string>
+    <string name="tp_list">TP List </string>
+    <string name="others_tp_list">Others TP List </string>
+    <string name="copy_from">Copy From </string>
+    <string name="change_tp">Change TP</string>
+    <string name="tp_of">TP of</string>
+
+    <string name="leave_cause">Cause of leave</string>
+    <string name="meeting_place">Meeting place</string>
+    <string name="dcr_list">Monthly DCR List</string>
+    <string name="title_activity_add_sample_item">Add Sample</string>
+    <string name="new_doctor">New Doctor</string>
+    <string name="existing_doctor">Existing Doctor</string>
+    <string name="intern_doctor">Intern Doctor</string>
+    <string name="new_dcr_other">Others</string>
+    <string name="more">More...</string>
+    <string name="add_accompany">Add Accompany</string>
+    <string name="settings">settings</string>
+    <string name="internet_not_available">Internet connection is not available</string>
+    <string name="check_internet">Please check your internet connection</string>
+    <string name="change_password_underline"><u>Change Password</u></string>
+    <string name="change_password">Change Password</string>
+
+
+    <string name="product_related">Product Related</string>
+    <string name="gift_related">Gift Related</string>
+    <string name="survey">Survey</string>
+    <string name="marketing_strategy">Marketing Strategy</string>
+    <string name="employee_benefit">Employee Benefit</string>
+
+    <!-- home menu and text -->
+    <string name="home_notification">notification</string>
+    <string name="home_tour_plan">tour plan</string>
+    <string name="home_doc_plan">doctor plan</string>
+    <string name="home_product_plan">product plan</string>
+    <string name="home_gift_plan">gift plan</string>
+    <string name="home_daily_plan">daily plan</string>
+    <string name="home_lets_ready">lets ready</string>
+    <string name="home_bill">bill</string>
+    <string name="home_reports">reports</string>
+    <string name="home_settings">settings</string>
+
+    <!-- title -->
+    <string name="title_notification">Notifications</string>
+    <string name="title_tour_plan">Tour Plan</string>
+    <string name="title_doc_plan">Doctor Plan</string>
+    <string name="title_product_plan">Product Plan</string>
+    <string name="title_gift_plan">Gift Plan</string>
+    <string name="title_daily_plan">Daily Plan</string>
+    <string name="title_bill">Bill</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_forgotten_password"><u> Forgotten password?</u></string>
+    <string name="title_or">OR</string>
+
+    <string name="register_as_self_title">Self-employed</string>
+    <string name="register_as_self_sub_title">Choose this option if you have a taxi license.</string>
+    <string name="register_as_employee_title">Employed</string>
+    <string name="register_as_employee_sub_title">If you are in UK, please ignore this option.</string>
+    <string name="register_as_company_title">Taxi Company</string>
+    <string name="register_as_company_sub_title">If you are in UK, please ignore this option.</string>
+
+    <string name="contact_location">Location</string>
+    <string name="contact_first_name">First Name</string>
+    <string name="contact_last_name">Last Name</string>
+    <string name="contact_area_code">Area Code</string>
+    <string name="contact_no">Phone Number</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_type">Type</string>
+
+    <string name="personal_title_select_photo">Please take a profile photo</string>
+    <string name="personal_select_photo">Select photo</string>
+    <string name="personal_dob">Date of Birth</string>
+    <string name="personal_username">Username</string>
+    <string name="personal_change_password">Change password</string>
+
+    <string name="license_garda_title">GARDA PAPER LICENSE</string>
+    <string name="license_title_select_photo">Please take a picture of your Garda Paper License</string>
+    <string name="license_dashboard_id_title">DASHBOARD ID</string>
+    <string name="license_dashboard_title_select_photo">Please take a picture of your dashboard id</string>
+    <string name="license_title">LICENSE</string>
+    <string name="license_badge_no">Badge Number</string>
+    <string name="license_expiration_date">Expiration Date</string>
+
+    <string name="vehicle_license_title">VEHICLE SPSV TAXI LICENSE</string>
+    <string name="vehicle_license_title_select_photo">Please take a picture of your SPSV License</string>
+    <string name="vehicle_license_info_title">VEHICLE SPSV INFORMATION</string>
+    <string name="vehicle_license_info_roof_sign_no">Roof Sign Number</string>
+    <string name="vehicle_license_info_ex_date">Expiration Date</string>
+    <string name="vehicle_license_detail_title">VEHICLE DETAILS</string>
+    <string name="vehicle_license_detail_man_model">Vehicle Manufacturer and Model</string>
+    <string name="vehicle_license_detail_seats">Seats (Passengers)</string>
+    <string name="vehicle_license_detail_reg_no">Vehicle Registration</string>
+    <string name="vehicle_detail_wheelchair">Wheelchair Accessible</string>
+
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="address_postal_code">Postal Code</string>
+    <string name="address_city">City</string>
+    <string name="address_country">Country</string>
+    <string name="bank_detail_iban">IBAN</string>
+    <string name="bank_detail_legal_title">LEGAL AGREEMENTS</string>
+    <string name="bank_detail_terms_condition_title">I agree with the Terms</string>
+    <string name="bank_detail_terms_condition">In order to complete your registration, you need to accept our Terms.</string>
+    <string name="bank_detail_terms_title">Terms</string>
+    <string name="bank_detail_privacy_policy_title">Privacy Policy</string>
+
+    <string name="facebook_app_id">2468982586747237</string>
+    <string name="fb_login_protocol_scheme">fb2468982586747237</string>
+
+
+</resources>
